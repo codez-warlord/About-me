@@ -1,5 +1,4 @@
-Simple-portfolio_v3
-
+# website 
 This is a portfolio website showcasing my work, skills, and experience. The purpose of this website is to provide an overview of my professional journey, highlight my key projects, and provide a platform for potential clients, employers, or collaborators to learn more about me.
 
 ## Table of Contents
